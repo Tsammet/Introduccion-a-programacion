@@ -3,3 +3,5 @@ Inicio
 proceso
 
 salida
+
+Nuevo cambio desde el pc local
